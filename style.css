@@ -144,6 +144,10 @@ html, body {
     font-size: 20px;
     
   }
+  #netflix{
+    height: 15vh;
+    margin-top: 2vh; 
+  }
   .col-sm{
     background: linear-gradient(130deg, rgba(0, 0, 0, 0.767) 0%, rgba(0, 0, 0, 0.356) 100%);
     border: 5px solid black;
